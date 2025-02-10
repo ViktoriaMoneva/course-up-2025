@@ -10,4 +10,4 @@ if __name__ == '__main__':
     print (list_of_sides)
 
     for p in list_of_sides:
-        sum
+
